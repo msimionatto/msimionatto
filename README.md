@@ -48,14 +48,6 @@ Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em si
 
 ---
 
-### 🏢 Empresa — Trendora
-
-<a href="https://www.instagram.com/trendoraofc/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=instagram" /></a>
-
-</div>
-
----
-
 ## 🤝 Vamos Conectar?
 
 Se você curtiu meu trabalho, quer trocar uma ideia, colaborar ou precisa de um sistema exclusivo:
