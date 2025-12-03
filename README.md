@@ -48,21 +48,6 @@ Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em si
 
 ---
 
-## 🌐 Minhas Redes
-
-<div align="center">
-
-### 👤 Perfil Pessoal
-
-<a href="https://www.instagram.com/msimionatt/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://x.com/msimionatt" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://www.facebook.com/profile.php?id=61584270523795" target="_blank"><img height="40" src="https://img.icons8.com/?size=100&id=13912&format=png&color=FFFFFF" /></a>
-<a href="https://www.linkedin.com/in/marcos-simionatto-57778b394/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://steamcommunity.com/profiles/76561199880319528/" target="_blank"><img height="40" src="https://img.icons8.com/?size=100&id=47869&format=png&color=FFFFFF" /></a>
-<a href="https://open.spotify.com/user/31cwrkvj4pj6aixtor2iqthf544e" target="_blank"><img height="40" src="https://img.icons8.com/?size=100&id=12375&format=png&color=FFFFFF" /></a>
-
----
-
 ### 🏢 Empresa — Trendora
 
 <a href="https://www.instagram.com/trendoraofc/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=instagram" /></a>
