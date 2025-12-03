@@ -1,16 +1,81 @@
-## Hi there 👋
+<!-- ====== README by ChatGPT for msimionatto ====== -->
 
-<!--
-**msimionatto/msimionatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🖤 Marcos Simionatto — @msimionatto 🤍</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Web & Desktop Developer • Web Designer • Freelancer • Tech Entrepreneur</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=550&lines=Hello+World!+I'm+Marcos+Simionatto.;Desenvolvedor+Web+e+Desktop.;Web+Designer+Criativo.;Empreendedor+de+Tecnologia.;Freelancer+de+Sistemas.;Always+learning+new+things!+🚀" />
+</p>
+
+---
+
+## 🖥️ About Me
+
+Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em sistemas reais — rápidos, bonitos e funcionais.
+
+💻 **Desenvolvo:**
+
+* Sistemas **web** (front-end & back-end)
+* Aplicações **desktop**
+* Interfaces e identidades visuais **web design**
+* Projetos completos para clientes e empresas (**freelancer**)
+* Soluções tecnológicas dentro do meu próprio negócio 🚀
+
+🗨️ *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
+
+---
+
+## ⚙️ Tech Stack (Black & White Style)
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,bootstrap,php,python,cs,c,cpp,java,lua,mysql,postgres,sqlite,git,github,vscode,electron&theme=dark" />
+</p>
+
+---
+
+### 🚀 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 🎛️ Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msimionatto&theme=github-dark&color=ffffff&bg_color=00000000)
+
+---
+
+## 🌐 Minhas Redes
+
+<div align="center">
+
+### 👤 Perfil Pessoal
+
+<a href="https://www.instagram.com/msimionatt/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://x.com/msimionatt" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://www.facebook.com/profile.php?id=61584270523795" target="_blank"><img height="40" src="https://img.icons8.com/?size=100&id=13912&format=png&color=FFFFFF" /></a>
+<a href="https://www.linkedin.com/in/marcos-simionatto-57778b394/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://steamcommunity.com/profiles/76561199880319528/" target="_blank"><img height="40" src="https://img.icons8.com/?size=100&id=47869&format=png&color=FFFFFF" /></a>
+<a href="https://open.spotify.com/user/31cwrkvj4pj6aixtor2iqthf544e" target="_blank"><img height="40" src="https://img.icons8.com/?size=100&id=12375&format=png&color=FFFFFF" /></a>
+
+---
+
+### 🏢 Empresa — Trendora
+
+<a href="https://www.instagram.com/trendoraofc/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=instagram" /></a>
+
+</div>
+
+---
+
+## 🤝 Vamos Conectar?
+
+Se você curtiu meu trabalho, quer trocar uma ideia, colaborar ou precisa de um sistema exclusivo:
+💬 **Me chame! Sempre aberto a novos projetos.**
+
+---
+
+<h3 align="center">🖤 Obrigado por visitar meu GitHub! 🤍</h3>
