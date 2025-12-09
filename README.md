@@ -1,18 +1,18 @@
 <!-- ====== README by ChatGPT for msimionatto ====== -->
 
-<h1 align="center">🖤 Marcos Simionatto — @msimionatto 🤍</h1>
+<h1 align="center" style="color:#4da6ff">💙 Marcos Simionatto — @msimionatto 💙</h1>
 
 <p align="center">
   <b>Web & Desktop Developer • Web Designer • Freelancer • Tech Entrepreneur</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=550&lines=Hello+World!+I'm+Marcos+Simionatto.;Desenvolvedor+Web+e+Desktop.;Web+Designer+Criativo.;Empreendedor+de+Tecnologia.;Freelancer+de+Sistemas.;Always+learning+new+things!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4da6ff&center=true&vCenter=true&width=550&lines=Hello+World!+I'm+Marcos+Simionatto.;Desenvolvedor+Web+e+Desktop.;Web+Designer+Criativo.;Empreendedor+de+Tecnologia.;Freelancer+de+Sistemas.;Always+learning+new+things!+🚀" />
 </p>
 
 ---
 
-## 🖥️ About Me
+## 💙 About Me
 
 Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em sistemas reais — rápidos, bonitos e funcionais.
 
@@ -28,31 +28,31 @@ Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em si
 
 ---
 
-## ⚙️ Tech Stack (Black & White Style)
+## ⚙️ Tech Stack (Blue Style)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,bootstrap,php,python,cs,c,cpp,java,lua,mysql,postgres,sqlite,git,github,vscode,electron&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,bootstrap,php,python,cs,c,cpp,java,lua,mysql,postgres,sqlite,git,github,vscode,electron&theme=light&perline=12&color=4da6ff" />
 </p>
 
 ---
 
-### 🚀 Contribution Snake
+### 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-### 🎛️ Activity Graph
+### 📊 Activity Graph (Blue Theme)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msimionatto&theme=github-dark&color=ffffff&bg_color=00000000)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msimionatto&theme=react-dark&color=4da6ff&line=4da6ff&point=4da6ff&bg_color=00000000)
 
 ---
 
 ## 🤝 Vamos Conectar?
 
-Se você curtiu meu trabalho, quer trocar uma ideia, colaborar ou precisa de um sistema exclusivo:
+Se você curtiu meu trabalho, quer trocar uma ideia, colaborar ou precisa de um sistema exclusivo:  
 💬 **Me chame! Sempre aberto a novos projetos.**
 
 ---
 
-<h3 align="center">🖤 Obrigado por visitar meu GitHub! 🤍</h3>
+<h3 align="center" style="color:#4da6ff">💙 Obrigado por visitar meu GitHub! 💙</h3>
