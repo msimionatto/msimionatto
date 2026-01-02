@@ -1,18 +1,18 @@
 <!-- ====== README by ChatGPT for msimionatto ====== -->
 
-<h1 align="center" style="color:#2ecc71">💚 Marcos Simionatto — @msimionatto 💚</h1>
+<h1 align="center" style="color:#e74c3c">❤️ Marcos Simionatto — @msimionatto ❤️</h1>
 
 <p align="center">
   <b>Web & Desktop Developer • Web Designer • Freelancer • Tech Entrepreneur</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2ecc71&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Marcos+Simionatto.;Desenvolvedor+Web+e+Desktop.;Web+Designer+Criativo.;Empreendedor+de+Tecnologia.;Freelancer+de+Sistemas.;Transformando+ideias+em+soluções+digitais.;Always+learning+new+things!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=e74c3c&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Marcos+Simionatto.;Desenvolvedor+Web+e+Desktop.;Web+Designer+Criativo.;Empreendedor+de+Tecnologia.;Freelancer+de+Sistemas.;Transformando+ideias+em+soluções+digitais.;Always+learning+new+things!+🚀" />
 </p>
 
 ---
 
-## 💚 About Me
+## ❤️ About Me
 
 Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em **sistemas reais**, com foco em **performance, estética e experiência do usuário**.
 
@@ -31,7 +31,7 @@ Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em **
 
 ---
 
-## ⚙️ Tech Stack (Green Style)
+## ⚙️ Tech Stack (Red Style)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,bootstrap,php,python,cs,c,cpp,java,lua,mysql,postgres,sqlite,git,github,vscode,electron&theme=light&perline=12" />
@@ -55,9 +55,9 @@ Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em **
 
 ---
 
-### 📊 GitHub Activity (Green Theme)
+### 📊 GitHub Activity (Red Theme)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msimionatto&theme=react-dark&color=2ecc71&line=2ecc71&point=2ecc71&bg_color=00000000)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msimionatto&theme=react-dark&color=e74c3c&line=e74c3c&point=e74c3c&bg_color=00000000)
 
 ---
 
@@ -71,4 +71,4 @@ Se você curtiu meu trabalho, quer trocar uma ideia, colaborar ou precisa de um 
 
 ---
 
-<h3 align="center" style="color:#2ecc71">💚 Obrigado por visitar meu GitHub! 💚</h3>
+<h3 align="center" style="color:#e74c3c">❤️ Obrigado por visitar meu GitHub! ❤️</h3>
