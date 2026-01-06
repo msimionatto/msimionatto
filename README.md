@@ -1,18 +1,16 @@
-<!-- ====== README by ChatGPT for msimionatto ====== -->
-
-<h1 align="center" style="color:#e74c3c">❤️ Marcos Simionatto — @msimionatto ❤️</h1>
+<h1 align="center" style="color:#007BFF">💙 Marcos Simionatto — @msimionatto 💙</h1>
 
 <p align="center">
   <b>Web & Desktop Developer • Web Designer • Freelancer • Tech Entrepreneur</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=e74c3c&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Marcos+Simionatto.;Desenvolvedor+Web+e+Desktop.;Web+Designer+Criativo.;Empreendedor+de+Tecnologia.;Freelancer+de+Sistemas.;Transformando+ideias+em+soluções+digitais.;Always+learning+new+things!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=007BFF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Marcos+Simionatto.;Desenvolvedor+Web+e+Desktop.;Web+Designer+Criativo.;Empreendedor+de+Tecnologia.;Freelancer+de+Sistemas.;Transformando+ideias+em+soluções+digitais.;Always+learning+new+things!+🚀" />
 </p>
 
 ---
 
-## ❤️ About Me
+## 💙 About Me
 
 Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em **sistemas reais**, com foco em **performance, estética e experiência do usuário**.
 
@@ -31,10 +29,10 @@ Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em **
 
 ---
 
-## ⚙️ Tech Stack (Red Style)
+## ⚙️ Tech Stack (Blue Style)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,bootstrap,php,python,cs,c,cpp,java,lua,mysql,postgres,sqlite,git,github,vscode,electron&theme=light&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,bootstrap,php,python,cs,c,cpp,java,lua,mysql,postgres,sqlite,git,github,vscode,electron&theme=dark&perline=12" />
 </p>
 
 ---
@@ -51,13 +49,13 @@ Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em **
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 📊 GitHub Activity (Red Theme)
+### 📊 GitHub Activity (Blue Theme)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msimionatto&theme=react-dark&color=e74c3c&line=e74c3c&point=e74c3c&bg_color=00000000)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msimionatto&theme=tokyonight&color=007BFF&line=007BFF&point=007BFF&bg_color=00000000)
 
 ---
 
@@ -71,4 +69,8 @@ Se você curtiu meu trabalho, quer trocar uma ideia, colaborar ou precisa de um 
 
 ---
 
-<h3 align="center" style="color:#e74c3c">❤️ Obrigado por visitar meu GitHub! ❤️</h3>
+<h3 align="center" style="color:#007BFF">💙 Obrigado por visitar meu GitHub! 💙</h3>
+
+<p align="center">
+  <small>© 2026 Simionatto Digital Solutions</small>
+</p>
