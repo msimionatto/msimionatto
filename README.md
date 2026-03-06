@@ -47,18 +47,10 @@ Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em **
 
 ---
 
-## 📊 Estatísticas (Red Theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msimionatto&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&icon_color=FF0000&title_color=FF0000&text_color=ffffff&bg_color=00000000" alt="Marcos Simionatto GitHub Stats" />
-</p>
-
----
-
 ## 💻 Linguagens Mais Utilizadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msimionatto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=00000000" alt="Marcos Simionatto Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msimionatto&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Marcos Simionatto Top Langs" />
 </p>
 
 ---
@@ -71,7 +63,13 @@ Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em **
 
 ### 📊 GitHub Activity Graph (Red Theme)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msimionatto&theme=tokyonight&color=FF0000&line=FF0000&point=FF0000&bg_color=00000000)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msimionatto&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Marcos Simionatto GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msimionatto&theme=tokyonight&color=FF0000&line=FF0000&point=FF0000&bg_color=00000000" />
+</p>
 
 ---
 
@@ -88,5 +86,5 @@ Se você curtiu meu trabalho, quer trocar uma ideia, colaborar ou precisa de um 
 <h3 align="center" style="color:#FF0000">❤️ Obrigado por visitar meu GitHub! ❤️</h3>
 
 <p align="center">
-  <small>© 2026 Simionatto Digital Solutions</small>
+  <small>© 2026 Marcos Vinicius Zanela Simionatto</small>
 </p>
