@@ -20,6 +20,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00D2FF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Marcos+Simionatto.;Desenvolvedor+Web+e+Desktop.;Web+Designer+Criativo.;Empreendedor+de+Tecnologia.;Freelancer+de+Sistemas.;Transformando+ideias+em+soluções+digitais.;Always+learning+new+things!+🚀" />
 </p>
 
+<!-- Novo Elemento Visível: Banner GIF do Astronauta -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="60%" alt="Astronaut Tech GIF" />
+</p>
+
 ---
 
 ## 💙 About Me
@@ -62,7 +67,6 @@ Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em **
 ## 📌 Projeto em Destaque
 <p align="center">
   <a href="https://github.com/msimionatto">
-    <!-- Tema alterado para Tokyonight (Base escura com azul/ciano) -->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=msimionatto&repo=PurpleTheme&theme=tokyonight&hide_border=true" alt="Projeto em Destaque" />
   </a>
 </p>
@@ -101,7 +105,6 @@ Sou **Marcos Simionatto**, desenvolvedor apaixonado por transformar ideias em **
 ## 💻 Linguagens Mais Utilizadas
 
 <p align="center">
-  <!-- Tema alterado para Tokyonight -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msimionatto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Marcos Simionatto Top Langs" />
 </p>
 
