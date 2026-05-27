@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#00D2FF">💙 Marcos Simionatto — @msimionatto 💙</h1>
 
 <p align="center">
-  <b>Web & Desktop Developer • Web Designer • Freelancer • Tech Entrepreneur</b>
+  <b>Web & Desktop Developer • Web Designer • Desenvolvedor • Tech Entrepreneur</b>
 </p>
 
 <!-- Badges de Contato/Sociais -->
