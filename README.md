@@ -1,385 +1,214 @@
-<h1 align="center">
-  ◼ MARCOS SIMIONATTO — @msimionatto ◼
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full Stack Developer • Web & Desktop Developer • Web Designer • Tech Entrepreneur</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Marcos%20Simionatto&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Web%20Designer%20%7C%20Game%20Dev%20%7C%20Tech%20Entrepreneur&descAlignY=60&descSize=15&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hello+World!+I'm+Marcos+Simionatto.;Full+Stack+Developer.;Web+%26+Desktop+Developer.;Web+Designer.;Tech+Entrepreneur.;Transformando+ideias+em+soluções+digitais."
-    alt="Typing SVG"
-  >
-</p>
+</div>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=msimionatto&label=PROFILE%20VIEWS&color=000000&style=for-the-badge"
-    alt="Profile Views"
-  >
-</p>
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Web+Designer+%F0%9F%8E%A8;Game+Developer+%F0%9F%8E%AE;Tech+Entrepreneur+%F0%9F%9A%80;Transformando+ideias+em+produtos+digitais.)](https://git.io/typing-svg)
 
-## ◼ Redes Sociais
+</div>
 
-<p align="center">
+<br>
 
-<a href="https://github.com/msimionatto">
-  <img
-    src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF"
-    alt="GitHub"
-  >
-</a>
+<div align="center">
 
-<a href="https://instagram.com/msimionatto">
-  <img
-    src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFFFFF"
-    alt="Instagram"
-  >
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=msimionatto&label=PROFILE+VIEWS&color=000000&style=flat-square)](https://github.com/msimionatto)
+&nbsp;·&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/msimionatto?label=FOLLOWERS&style=flat-square&color=000000)](https://github.com/msimionatto)
+&nbsp;·&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/msimionatto?label=STARS&style=flat-square&color=000000)](https://github.com/msimionatto)
 
-<a href="https://open.spotify.com/user/31swsilrzava4ixwitanzurkp7fi">
-  <img
-    src="https://img.shields.io/badge/Spotify-0D0D0D?style=for-the-badge&logo=spotify&logoColor=FFFFFF"
-    alt="Spotify"
-  >
-</a>
-
-<a href="https://steamcommunity.com/profiles/76561199880319528/">
-  <img
-    src="https://img.shields.io/badge/Steam-0D0D0D?style=for-the-badge&logo=steam&logoColor=FFFFFF"
-    alt="Steam"
-  >
-</a>
-
-<a href="mailto:seu-email@provedor.com">
-  <img
-    src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
-    alt="Email"
-  >
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"
-    width="58%"
-    alt="Astronaut Tech GIF"
-  >
-</p>
+## `$ whoami`
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif" />
+
+```ts
+const marcos = {
+  name     : "Marcos Vinicius Zanela Simionatto",
+  alias    : "@msimionatto",
+  degree   : "ADS — UNIDEAU",
+  location : "Brasil 🇧🇷",
+  roles    : [
+    "Full Stack Developer",
+    "Web & Desktop Developer",
+    "Web Designer  /  UI·UX",
+    "Game Developer",
+    "Tech Entrepreneur"
+  ],
+  stack    : ["React", "Node.js", "TypeScript", "PHP", "Python", "Java"],
+  gamedev  : ["Unity", "Unreal Engine"],
+  design   : ["Figma", "Photoshop", "Illustrator"],
+  mobile   : ["Android Studio", "iOS"],
+  motto    : "Transformando ideias em produtos digitais reais. 🚀"
+};
+```
+
+Apaixonado por tecnologia e pelo desenvolvimento de soluções digitais.
+Atuo com **Full Stack**, do back ao front, da lógica ao design.
+Também desenvolvo para **mobile**, **games** e crio identidades visuais completas.
+
+<br clear="right"/>
 
 ---
 
-# ◼ Sobre Mim
+## `$ connect --social`
 
-Sou **Marcos Simionatto**, **Graduado em Análise e Desenvolvimento de Sistemas pela UNIDEAU**, apaixonado por tecnologia e pelo desenvolvimento de soluções digitais.
+<div align="center">
 
-Atuo com **Desenvolvimento Full Stack**, trabalhando desde a estrutura e lógica dos sistemas até a interface e experiência do usuário.
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msimionatto)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/msimionatto)
+[![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31swsilrzava4ixwitanzurkp7fi)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199880319528/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@provedor.com)
 
-### Desenvolvimento
-
-- Desenvolvimento Full Stack
-- Desenvolvimento Web
-- Desenvolvimento Desktop
-- Front-end & Back-end
-- Banco de Dados
-- Programação
-- Desenvolvimento de Sistemas
-- APIs e Integrações
-- Scripts e Automações
-- Landing Pages
-- Websites
-- Sistemas sob medida
-- Interfaces modernas e responsivas
-
-### Design
-
-- Web Design
-- UI / UX
-- Diagramação
-- Criação de Logos
-- Criação de Banners
-- Edição de imagens
-- Edição de conteúdos digitais
-- Identidade visual
-- Design para projetos digitais
-
-> "Code is like humor. When you have to explain it, it's bad."
+</div>
 
 ---
 
-# ◼ Tech Stack
+## `$ ls ./tech-stack`
 
-<p align="center">
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480" alt="tech gif" />
+</div>
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,bootstrap,php,python,cs,c,cpp,java,lua,mysql,postgres,sqlite,git,github,vscode,electron&theme=dark&perline=12"
-  alt="Tech Stack"
->
+<br>
 
-</p>
+<div align="center">
 
----
+**🌐 Frontend & Mobile**
 
-# ◼ O que estou desenvolvendo
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white)
+![Android](https://img.shields.io/badge/Android-000?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white)
 
-<p align="center">
+**⚙️ Backend & Database**
 
-<img
-  src="https://img.shields.io/badge/WEB%20DEVELOPMENT-FFFFFF?style=for-the-badge&labelColor=0D0D0D"
-  alt="Web Development"
->
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-000?style=flat-square&logo=xampp&logoColor=white)
 
-<img
-  src="https://img.shields.io/badge/DESKTOP%20APPS-FFFFFF?style=for-the-badge&labelColor=0D0D0D"
-  alt="Desktop Apps"
->
+**🎮 Game Dev**
 
-<img
-  src="https://img.shields.io/badge/APIs-FFFFFF?style=for-the-badge&labelColor=0D0D0D"
-  alt="APIs"
->
+![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000?style=flat-square&logo=unrealengine&logoColor=white)
 
-<img
-  src="https://img.shields.io/badge/AUTOMAÇÕES-FFFFFF?style=for-the-badge&labelColor=0D0D0D"
-  alt="Automações"
->
+**🎨 Design & Edição**
 
-</p>
+![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-000?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-000?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Vegas Pro](https://img.shields.io/badge/Vegas%20Pro-000?style=flat-square&logo=vegascreativesoftware&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000?style=flat-square&logo=capcut&logoColor=white)
 
-- Sistemas Web
-- Aplicações Desktop
-- Landing Pages
-- APIs e Integrações
-- Automações
-- Ferramentas próprias
-- Interfaces modernas
-- Projetos Full Stack
-- Sistemas personalizados
-- Soluções digitais sob medida
+**🛠️ Ferramentas**
 
----
+![VS Code](https://img.shields.io/badge/VS%20Code-000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-000?style=flat-square&logo=androidstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)
 
-# ◼ Projeto em Destaque
+</div>
 
-<p align="center">
+<br>
 
-<a href="https://github.com/msimionatto/PurpleTheme">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=msimionatto&repo=PurpleTheme&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF"
-  alt="PurpleTheme"
->
-
-</a>
-
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cpp,react,nodejs,mysql,unity,unreal,figma,photoshop,illustrator,vscode,androidstudio,github&theme=dark&perline=10" />
+</div>
 
 ---
 
-# ◼ GitHub Analytics
+## `$ git stats --user msimionatto`
 
-<p align="center">
+<div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=msimionatto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF"
-  height="180"
-  alt="GitHub Stats"
->
+<img src="https://github-readme-stats.vercel.app/api?username=msimionatto&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msimionatto&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&langs_count=8" height="170" />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=msimionatto&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF"
-  height="180"
-  alt="Top Languages"
->
+</div>
 
-</p>
+<br>
 
----
+<div align="center">
 
-# ◼ GitHub Streak
+<img src="https://streak-stats.demolab.com/?user=msimionatto&theme=dark&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
-<p align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=msimionatto&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"
-  alt="GitHub Streak"
->
-
-</p>
+</div>
 
 ---
 
-# ◼ Contribution Activity
+## `$ git log --activity`
 
-<p align="center">
+<div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=msimionatto&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"
-  alt="GitHub Activity Graph"
->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=msimionatto&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=1a1a1a&hide_border=true&custom_title=Contribution%20Graph" width="96%" />
 
-</p>
+</div>
 
 ---
 
-# ◼ Linguagens Mais Utilizadas
+## `$ git contributions --snake`
 
-<p align="center">
+<div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=msimionatto&layout=donut&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC"
-  alt="Most Used Languages"
->
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-</p>
+</div>
 
 ---
 
-# ◼ 🐍 Contribution Snake
+## `$ open --repos`
 
-<p align="center">
+<div align="center">
 
-<img
-  src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"
-  alt="snake gif"
->
-
-</p>
-
----
-
-# ◼ 🎵 Atualmente Ouvindo
-
-<p align="center">
-
-<a href="https://open.spotify.com/user/31swsilrzava4ixwitanzurkp7fi">
-
-<img
-  src="https://spotify-github-profile.kittinanx.com/api/view?uid=31swsilrzava4ixwitanzurkp7fi&cover_image=true&theme=default&background_color=0D0D0D&border_radius=12&bar_color=FFFFFF&bar_color_cover=false&show_offline=true&mode=dark"
-  alt="Spotify Now Playing"
->
-
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://open.spotify.com/user/31swsilrzava4ixwitanzurkp7fi">
-
-<img
-  src="https://img.shields.io/badge/ABRIR%20MEU%20SPOTIFY-FFFFFF?style=for-the-badge&logo=spotify&logoColor=000000"
-  alt="Open Spotify"
->
-
-</a>
-
-</p>
-
----
-
-# ◼ 🎮 Steam
-
-<p align="center">
-
-<a href="https://steamcommunity.com/profiles/76561199880319528/">
-
-<img
-  src="https://img.shields.io/badge/STEAM-FFFFFF?style=for-the-badge&logo=steam&logoColor=000000"
-  alt="Steam"
->
-
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://steamcommunity.com/profiles/76561199880319528/">
-  Visite meu perfil na Steam
-</a>
-
-</p>
-
----
-
-# ◼ Redes & Contato
-
-<p align="center">
-
-<a href="https://github.com/msimionatto">
-  <img
-    src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"
-    alt="GitHub"
-  >
-</a>
-
-<a href="https://instagram.com/msimionatto">
-  <img
-    src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000"
-    alt="Instagram"
-  >
-</a>
-
-<a href="https://open.spotify.com/user/31swsilrzava4ixwitanzurkp7fi">
-  <img
-    src="https://img.shields.io/badge/SPOTIFY-FFFFFF?style=for-the-badge&logo=spotify&logoColor=000000"
-    alt="Spotify"
-  >
-</a>
-
-<a href="https://steamcommunity.com/profiles/76561199880319528/">
-  <img
-    src="https://img.shields.io/badge/STEAM-FFFFFF?style=for-the-badge&logo=steam&logoColor=000000"
-    alt="Steam"
-  >
-</a>
-
-</p>
-
----
-
-# ◼ Vamos Conectar?
-
-<p align="center">
-
-Se você curtiu meu trabalho, quer trocar uma ideia, colaborar
-ou precisa de uma solução digital personalizada:
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="72" />
 
 <br><br>
 
-<b>Entre em contato comigo.</b>
+[![Ver Repositórios](https://img.shields.io/badge/▶%20VER%20TODOS%20OS%20REPOSITÓRIOS-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msimionatto?tab=repositories)
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+## `$ echo "Vamos Conectar?"`
 
-<b>◼ DESENVOLVIMENTO • DESIGN • TECNOLOGIA • CRIATIVIDADE ◼</b>
+<div align="center">
 
-</p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55" />
 
-<p align="center">
+<br><br>
 
-<i>Transformando ideias em produtos digitais reais.</i>
+**Curtiu o trabalho? Quer colaborar ou precisa de uma solução digital personalizada?**
 
-</p>
+<br>
 
-<p align="center">
+[![Entre em Contato](https://img.shields.io/badge/▶%20ENTRE%20EM%20CONTATO-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@provedor.com)
 
-─────────────────────────────────────────
+<br>
 
-</p>
+*"Code is like humor. When you have to explain it, it's bad."*
 
-<p align="center">
+</div>
 
-<small>© 2026 Marcos Vinicius Zanela Simionatto</small>
+---
 
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=footer" width="100%" />
+
+<sub>© 2026 Marcos Vinicius Zanela Simionatto &nbsp;·&nbsp; DESENVOLVIMENTO · DESIGN · TECNOLOGIA · CRIATIVIDADE</sub>
+
+</div>
